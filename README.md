@@ -1,3 +1,5 @@
+# Dramane Kamissoko
+I'm Dramane from France. 4 years ago, I had in commerce study, today I'm Full Stack developer.
 - 👋 Hi, I’m @Dramane-dev
 - 👀 I’m interested in meditation, Street Workout, programming and the most important, my wife to whom i say thank you for everything 😌 ♥️
 - 🌱 I’m currently learning JavaScript/TypeScript, React/Angular, NodeJs/Flask/Django.
