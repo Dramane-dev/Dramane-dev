@@ -63,7 +63,7 @@ I'm Dramane from France.<br />
 
 # ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dramane-dev&show_icons=truetheme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dramane-dev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🏆 The most languages that i use
 
