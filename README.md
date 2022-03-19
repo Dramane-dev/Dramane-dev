@@ -3,15 +3,15 @@ Hi there👋 .<br>
 I'm Dramane from France.<br>
 4 years ago, I had in commerce study, today I'm Full Stack developer 😌.<br>
 
-<a href="#">
-    <img 
+<p align="center">
+  <img 
      alt="Avatar"
      src="./assets/avatar.me.png"
      style="margin-left: auto; margin-right: auto"
-     width="150" 
-     height="150"
+     width="200" 
+     height="200"
     />
-</a>
+</p>
 
 ***Actually:***
 
@@ -57,6 +57,8 @@ I'm Dramane from France.<br>
 <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Apple" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
+
+
 <!---
 Dramane-dev/Dramane-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
