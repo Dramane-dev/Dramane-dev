@@ -3,7 +3,7 @@ Hi there👋 .<br>
 I'm Dramane from France.<br>
 4 years ago, I had in commerce study, today I'm Full Stack developer 😌.<br>
 
-<a href="#">
+<a href="#" style="margin-left: auto; margin-right: auto">
     <img 
      alt="Avatar"
      src="./assets/avatar.me.png"
@@ -22,11 +22,11 @@ I'm Dramane from France.<br>
 
 ### Connect with me:
 
-[![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-light-mode-only)
-[![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-dark-mode-only)
+[![img_contact](./assets/linkedin-light.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-light-mode-only)
+[![img_contact](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./assets/instagram-light.svg)](https://www.instagram.com/dramane.dev/#gh-light-mode-only)
-[![website](./assets/instagram-dark.svg)](https://www.instagram.com/dramane.dev/#gh-dark-mode-only)
+[![img_contact](./assets/instagram-light.svg)](https://www.instagram.com/dramane.dev/#gh-light-mode-only)
+[![img_contact](./assets/instagram-dark.svg)](https://www.instagram.com/dramane.dev/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
