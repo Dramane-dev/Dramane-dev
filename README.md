@@ -1,7 +1,7 @@
 # Dramane Kamissoko
-Hi everyone. 
-I'm Dramane from France. 
-4 years ago, I had in commerce study, today I'm Full Stack developer.
+Hi everyone.<br>
+I'm Dramane from France.<br>
+4 years ago, I had in commerce study, today I'm Full Stack developer.<br>
 
 
 <!---
