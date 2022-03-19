@@ -1,7 +1,7 @@
 # Dramane Kamissoko
-Hi there👋 .<br>
-I'm Dramane from France.<br>
-4 years ago, I had in commerce study, today I'm Full Stack developer 😌.<br>
+Hi there👋 .<br />
+I'm Dramane from France.<br />
+4 years ago, I had in commerce study, today I'm Full Stack developer 😌.<br />
 
 <p align="center">
   <img 
@@ -58,7 +58,8 @@ I'm Dramane from France.<br>
 <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Apple" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
 
-<br>
+<br />
+<br />
 
 # ⭐ GitHub Stats
 
