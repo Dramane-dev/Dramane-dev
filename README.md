@@ -58,6 +58,13 @@ I'm Dramane from France.<br>
 <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Apple" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />
 
+# ⭐ GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dramane-dev&show_icons=truetheme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+# 🏆 The most languages that i use
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dramane-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Dramane-dev/Dramane-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
