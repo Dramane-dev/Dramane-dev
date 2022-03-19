@@ -3,13 +3,13 @@ Hi there👋 .<br>
 I'm Dramane from France.<br>
 4 years ago, I had in commerce study, today I'm Full Stack developer 😌.<br>
 
-<a href="#" style="margin-left: auto; margin-right: auto">
+<a href="#">
     <img 
      alt="Avatar"
      src="./assets/avatar.me.png"
      style="margin-left: auto; margin-right: auto"
-     width="100" 
-     height="100"
+     width="150" 
+     height="150"
     />
 </a>
 
