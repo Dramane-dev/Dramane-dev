@@ -22,11 +22,11 @@ I'm Dramane from France.<br>
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-dark-mode-only)
+[![website](./assets/linkedin-light.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-light-mode-only)
+[![website](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dramane.dev/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dramane.dev/#gh-dark-mode-only)
+[![website](./assets/instagram-light.svg)](https://www.instagram.com/dramane.dev/#gh-light-mode-only)
+[![website](./assets/instagram-dark.svg)](https://www.instagram.com/dramane.dev/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
