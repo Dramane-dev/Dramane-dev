@@ -22,26 +22,22 @@ I'm Dramane from France.<br />
 
 ### My popular project at this moment:
 
-<div
-  style="display: flex; flex-direction: row; justify-content: space-around;"
->
-  <div
-    style="display: flex; flex-direction: column; align-items: center;"
-  >
-    <p style="margin: 0; font-size: 30px; font-weight: bold;">
-       <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tree/master/simplytodo-front">Simply todo front in Angular</a>
-    </p>
-    <img alt="AngularJs" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  </div>
-  <div
-    style="display: flex; flex-direction: column; align-items: center;"
-  >
-    <p style="margin: 0; font-size: 30px; font-weight: bold;">
-      <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tree/master/simplytodo-api">Simply todo back in NodeJs</a>
-    </p>
-    <img alt="Node.js" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  </div>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="text-align: center; margin-right: 2.5%;">
+      <p style="margin: 0; font-size: 30px; font-weight: bold;">
+        <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tdee/master/simplytodo-front">Simply todo front in Angular</a>
+      </p>
+      <img alt="AngularJs" width="100px" height="100px" style="margin-left: auto; margin-right: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+    </td>
+    <td style="text-align: center; margin-left: 2.5%;">
+      <p style="margin: 0; font-size: 30px; font-weight: bold;">
+        <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tdee/master/simplytodo-api">Simply todo back in NodeJs</a>
+      </p>
+      <img alt="Node.js" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    </td>
+  </tr>
+</table>
 
 ### Languages and Tools:
 
