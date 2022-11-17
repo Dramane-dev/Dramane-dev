@@ -37,7 +37,7 @@ I'm Dramane from France.<br />
         <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tdee/master/simplytodo-api">Simply todo back in NodeJs</a>
       </p>
       <p align="center">
-       <img align="center" alt="Node.js" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+       <img alt="Node.js" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       </p>
     </td>
   </tr>
