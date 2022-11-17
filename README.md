@@ -28,13 +28,13 @@ I'm Dramane from France.<br />
       <p style="margin: 0; font-size: 30px; font-weight: bold;">
         <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tdee/master/simplytodo-front">Simply todo front in Angular</a>
       </p>
-      <img alt="AngularJs" width="100px" height="100px" style="margin-left: auto; margin-right: auto;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+      <img align="center" alt="AngularJs" width="100px" height="100px" style="text-align: center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
     </td>
     <td style="text-align: center; margin-left: 2.5%;">
       <p style="margin: 0; font-size: 30px; font-weight: bold;">
         <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tdee/master/simplytodo-api">Simply todo back in NodeJs</a>
       </p>
-      <img alt="Node.js" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img align="center" alt="Node.js" width="100px" height="100px" style="text-align: center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     </td>
   </tr>
 </table>
