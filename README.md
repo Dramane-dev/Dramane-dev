@@ -26,7 +26,7 @@ I'm Dramane from France.<br />
   <tr>
     <td style="text-align: center; margin-right: 2.5%;">
       <p style="margin: 0; font-size: 30px; font-weight: bold;">
-        <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tdee/master/simplytodo-front">Simply todo front in Angular</a>
+        <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tree/master/simplytodo-front">Simply todo front in Angular</a>
       </p>
       <p align="center">
         <img alt="AngularJs" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -34,7 +34,7 @@ I'm Dramane from France.<br />
     </td>
     <td style="text-align: center; margin-left: 2.5%;">
       <p style="margin: 0; font-size: 30px; font-weight: bold;">
-        <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tdee/master/simplytodo-api">Simply todo back in NodeJs</a>
+        <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tree/master/simplytodo-api">Simply todo back in NodeJs</a>
       </p>
       <p align="center">
        <img alt="Node.js" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
