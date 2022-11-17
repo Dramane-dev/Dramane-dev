@@ -20,14 +20,6 @@ I'm Dramane from France.<br />
 - 💞️ I'm available to contribute to all types of voluntarily projects for free ✅.
 - 📫 How to reach me : Follow me on github, get my email on my profile page and send me a message 📨 😉
 
-<!-- ### Connect with me:
-
-[![img_contact](./assets/linkedin-light.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-light-mode-only)
-[![img_contact](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![img_contact](./assets/instagram-light.svg)](https://www.instagram.com/dramane.dev/#gh-light-mode-only)
-[![img_contact](./assets/instagram-dark.svg)](https://www.instagram.com/dramane.dev/#gh-dark-mode-only) -->
-
 ### My popular project at this moment:
 
 <div
