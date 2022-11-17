@@ -22,7 +22,7 @@ I'm Dramane from France.<br />
 
 ### My popular project at this moment:
 
-<table style="width: 100%;">
+<table style="width: 100%; margin-left: auto; margin-right: auto;">
   <tr>
     <td style="text-align: center; margin-right: 2.5%;">
       <p style="margin: 0; font-size: 30px; font-weight: bold;">
