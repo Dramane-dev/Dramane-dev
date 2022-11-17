@@ -1,7 +1,7 @@
-# Dramane Kamissoko
+# Dramane 
 Hi there👋 .<br />
 I'm Dramane from France.<br />
-4 years ago, I was in commerce study, today I'm Full Stack developer 😌.<br />
+5 years ago, I was in commerce study, today I'm Full Stack developer 😌.<br />
 
 <p align="center">
   <img 
@@ -20,13 +20,36 @@ I'm Dramane from France.<br />
 - 💞️ I'm available to contribute to all types of voluntarily projects for free ✅.
 - 📫 How to reach me : Follow me on github, get my email on my profile page and send me a message 📨 😉
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [![img_contact](./assets/linkedin-light.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-light-mode-only)
 [![img_contact](./assets/linkedin-dark.svg)](https://www.linkedin.com/in/dramane-kamissoko-70459216b/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./assets/instagram-light.svg)](https://www.instagram.com/dramane.dev/#gh-light-mode-only)
-[![img_contact](./assets/instagram-dark.svg)](https://www.instagram.com/dramane.dev/#gh-dark-mode-only)
+[![img_contact](./assets/instagram-dark.svg)](https://www.instagram.com/dramane.dev/#gh-dark-mode-only) -->
+
+### My popular project at this moment:
+
+<div
+  style="display: flex; flex-direction: row; justify-content: space-around;"
+>
+  <div
+    style="display: flex; flex-direction: column; align-items: center;"
+  >
+    <p style="margin: 0; font-size: 30px; font-weight: bold;">
+       <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tree/master/simplytodo-front">Simply todo front in Angular</a>
+    </p>
+    <img alt="AngularJs" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  </div>
+  <div
+    style="display: flex; flex-direction: column; align-items: center;"
+  >
+    <p style="margin: 0; font-size: 30px; font-weight: bold;">
+      <a style="text-decoration: none; color: #000000;" href="https://github.com/Dramane-dev/simplytodo-prod/tree/master/simplytodo-api">Simply todo back in NodeJs</a>
+    </p>
+    <img alt="Node.js" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </div>
+</div>
 
 ### Languages and Tools:
 
