@@ -84,6 +84,12 @@ I'm Dramane from France.<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dramane-dev)](https://github.com/anuraghazra/github-readme-stats)
 
+# My Profile Views
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=dramanedev&label=Profile%20Views&color=10&icon=3&pretty=true" />
+</a>
+
 <!---
 Dramane-dev/Dramane-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
